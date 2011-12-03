@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = OpenAsText::VERSION
   s.authors     = ["jugyo"]
   s.email       = ["jugyo.org@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/jugyo/open_as_text"
   s.summary     = %q{Object#open_as_text}
   s.description = %q{open an object as text}
 
